@@ -1,0 +1,23 @@
+SFWR ENG 2XB3
+
+Ninos Yomo
+400062096
+ADT/Database Developer, Class Relation Manager, Interface Designer.
+
+Paul Heys
+400069536
+Sorting Implementation, Debugger, ADT Developer, Graph Processing Designer.
+
+Immanuel Odisho
+400074199
+Design Specifications Manager, Graph Processing Designer, Debugger.
+
+Will Donaldson
+400072339
+Verification and Validation Bookkeeper, Searching Implemntation, Tester.
+
+Justin Zhou
+400032395
+Log Administrator, File Manager, Specifications Contributor.
+
+The work being submitted by us is our group work.
